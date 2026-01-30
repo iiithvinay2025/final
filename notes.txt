@@ -1,3 +1,4 @@
 Day 1: Setup project
 Day 2: Plan features
 Day 3: Write documentation
+Day 4: Refactor structure
