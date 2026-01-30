@@ -1,1 +1,2 @@
 Day 1: Setup project
+Day 2: Plan features
